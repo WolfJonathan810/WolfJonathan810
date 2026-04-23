@@ -1,16 +1,18 @@
-## Hi there 👋
+# Howdy 🤠
 
-<!--
-**WolfJonathan810/WolfJonathan810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **WolfJonathan810**, a open-source contributor.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal side projects
+- 🌱 Always learning new things
+- 🎯 Goal: ship something useful every week
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`tmux` `Gin` `WebGL`
+
+---
+
+_Love a good makefile._
